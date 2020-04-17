@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">profile</string>
+    <string name="nama_lengkap">Ahmad Taufiqi Muhisinin</string>
+    <string name="data_diri">Data Diri</string>
+    <string name="riwayat">Riwayat Sekolah</string>
+    <string name="hobby">hobby</string>
+    <string name="alamat">Alamat : Desa Jatiroto, Kec Kayen, Kab Pati</string>
+    <string name="ttl">TTL : Pati, 01 April 2000</string>
+    <string name="MI">- MI jatiroto</string>
+    <string name="MTS">- MTSN Winong</string>
+    <string name="SMA">- SMAN 1 Kayen</string>
+    <string name="hobby_saya">hobby saya selain bernafas adalah mempelajari diri sendiri</string>
+    <string name="kipli">TODO</string>
+    <string name="arrow">TODO</string>
+</resources>

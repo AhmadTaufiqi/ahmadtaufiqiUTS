@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:background="@drawable/ic_bg">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/next_profile"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        app:cardBackgroundColor="@color/colorsoft"
+        app:cardCornerRadius="22dp"
+        android:layout_marginTop="80dp"
+        android:clickable="true"
+        android:focusable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:contentDescription="@string/arrow" />
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
